@@ -31,7 +31,14 @@ Probabilistic Graphical Models, as well as online courses: Machine Learning with
 
 After graduating my undergrad, I spent the subsequent four months attempting to manifest my vision. I was implementing rudimentary trading algorithms, collecting
 social media data from twitter, and reddit, attempting to collect price history data, aggregate this data, and apply a machine learning model which could execute
-automated trades. 
+automated trades. I realized two things from this experience: Firstly, I was lacking depth of knowledge in some relevant areas, secondly, and most critically,
+I would not be able to pull of a successful execution of my vision while working in solitude. I needed people to discuss ideas with, and assist in engineering tasks.
+It was at this time that I decided to pursue a masters degree which could provide me with the necessary knowledge, skill, and network, that is necessary to execute
+my vision. This is when I discovered the SFU Big Data program.
+
+The Big Data program has equipped me far beyond anything I could have imagined. The tools and technology that I have been studying have been exactly what I need
+for my project. I have been exposed to a startup environment(Matt Saba), I have met brilliant hackers(Jacky), I have met domain experts coming from FinTech(Jacky, Steven, Arul),
+and enthusiastic individuals(Vincent, Paula).
 
 *** Financial Technology and Big Data
 *** RBC and Industrial Partners
