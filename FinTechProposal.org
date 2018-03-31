@@ -90,15 +90,12 @@ example, [[https://spark.apache.org/streaming/][Spark Streaming]] is a very new 
      Algorithmic Trading
      Deep Learning, Reinforcement Learning, and Evolution Strategies
      
-** Resources
-**** Course Content
-Arul on Big Data for Banking
-Princeton – Blockchain and Cryptocurrency Technology
-Quantopia
+** Credentials
+*** My Portfolio
 **** My work on Arbitrage and Visualization
-Arbitrage Paper
-Arbitrage Video
-CryptViz Proposal
+Arbitrage Paper - https://shawnwanderson.github.io/pdf/constructing-scalable-system.pdf
+Arbitrage Video -  https://photos.app.goo.gl/OCN4epsVFTWRdiX32
+CryptViz Proposal - https://github.com/LinuxIsCool/733Project
 **** My work on Automated Trading
 Slide Deck
 Summary
@@ -107,15 +104,29 @@ Original Paper
 **** My work on Signal Processing and Time Series
 Field Recordings
 EEG
-** Credentials
-*** My Portfolio
 *** My Resume
+*** My GitHub
+*** My Website
 *** GPA
+Fall - 12 Credits - Big Data Lab, Machine Learning, Data Mining - GPA: 3.83
 *** Reference
-Steven
-Diana
-Jiannan
+Steven Bergner
+Diana Cuckieman
+Jiannan Wang
+Ryan Shae
 Greg Baker
 Maxwell Librecht
-
-
+Paula Scott
+** Resources
+**** Course Content
+Arul Bharathi on Big Data for Banking: https://www.slideshare.net/arulbharathi/data-science-use-cases-in-banking
+Princeton – Blockchain and Cryptocurrency Technology  https://www.coursera.org/learn/cryptocurrency
+Quantopia https://www.quantopian.com/lectures
+**** Interest in FinTech
+Industry - RBC, Scotia, ect.
+Block Foundation
+Steven Bergner
+AI seminar feedback
+Arbitrage Presentation
+Jacky Lok, Vincent Chu, Brieh
+Fireout - Matt Saba, 
