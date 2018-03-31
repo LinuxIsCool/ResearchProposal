@@ -1,0 +1,114 @@
+* Big Data for Financial Technology - Course Proposal
+** Background
+The purpose of this proposal is to expose a portfolio of work that I have been
+contemplating and working on since Fall of 2015, and to request a partnership
+with the Big Data program at SFU to receive resources to continue
+this work in the form of research, curriculum production, or some other way. The
+theme of this portfolio can be summarized as Big Data for Financial Technology.
+The inspiration for studying this field comes from a fascination, and passion
+for two independent frontiers of technology: Biologically inspired probabilistic
+modelling (AI), and Cryptocurrency Ecosystems. I believe that I have found an
+incredibly fascinating niche in the intersection of these two emerging
+industrial fields. 
+
+In 2015, I was already obsessed with Bitcoin. I saw it as a liberating
+technology with the potential to lubricate global economies, drive financial and
+technological innovation, and put an end to post-colonial financial control systems.
+I also believed in at as a source of wealth, an intrinsically deflationary currency, a currency that will always be worth more tomorrow than today.
+In other words, I saw Bitcoin as a system that rewards people for consuming less, a solution to the capitalistic, materialistic,
+consumerism which is driving humans and the planet to destruction. As a young man, who had never
+experienced financial wealth, it offered a vehicle for monetary ascension if leveraged properly. Seeing the
+extreme volatility in the price of Bitcoin, I began to understand the magnitude to which one could multiply an investment
+if they could somehow predict future price movements of Bitcoin.
+
+Fall 2015 I enrolled in a graduate course on Machine Learning with Russ Greiner at University of Alberta. The first lecture was dedicated
+to the motivation for machine learning, a preview of the powerful problems that can be solved with probabilistic modelling rather than explicit programming.
+It instantly clicked in my head that machine learning could be used to model the price movement of Bitcoin. I have dedicated my life since then to accomplishing
+just that.
+
+Since that time, I have continued relentlessly studying AI and Cryptocurrencies. I took a course on Reinforcement Learning with Richard Sutton, AI in games, 
+Probabilistic Graphical Models, as well as online courses: Machine Learning with Andrew NG, Deep Learning with Tensorflow, and Bitcoin and Cryptocurrecy Technology.
+
+After graduating my undergrad, I spent the subsequent four months attempting to manifest my vision. I was implementing rudimentary trading algorithms, collecting
+social media data from twitter, and reddit, attempting to collect price history data, aggregate this data, and apply a machine learning model which could execute
+automated trades. 
+
+*** Financial Technology and Big Data
+*** RBC and Industrial Partners
+Number of Coops with Banks
+Brain Drain!
+The Big Data Empire
+** Proposal
+Two RA Terms
+*** Summer 2018
+Reconaissance at RBC
+Quantopia Research
+Monthly Reports
+*** Fall 2018
+Algorithms
+Course Development / Course Offering / Seminar Style?
+Work with a professor - Steven?
+** Course Content
+**** Big Data in Banking, Assets, and the Economy
+     Introduction to Financial Technology
+     Assets and the Economy as Big Data
+     Risk Management
+     Arbitrage
+**** Time Series, Signal Processing, Streaming and Dynamic Data
+***** Time Series
+     This area is, I believe, the most significant gap in the content covered by 
+Programming for Big Data I and II. The only case in which time series data is mentioned
+is in the context of Natural Language Processing. I believe Time Series analysis deserves
+a dedicated study in it's own right. Time Series analysis is critical when working with
+datasets such as Audio, Price Movement, EEG signals, Sensor Data, Web analysis, and security.
+
+***** Signal Processing
+      Fourier Transform is a fundamental concept for Data manipulation which is not
+covered in the Big Data program. It is relevant in Image processing, audio processing,
+signal processing of any kind in which you wish to move from the time domain to 
+the frequency domain.
+
+***** Streaming Data
+      Working with streaming data is a very hot topic in Big Data today. Financial applications often necessetate work with
+streaming data. FinTech could serve as the perfect sandbox for Big Data students to practice working with data streaming. For
+example, [[https://spark.apache.org/streaming/][Spark Streaming]] is a very new tool that students should become familiar with.
+**** Cryptocurrency Ecosystems
+     Blockchain and Cryptocurrency
+     Ethereum and Smart Contracts
+     Economic Nature of Cryptocurrency Systems
+     Visualization and Exploratory Analysis
+     Opportunity: Business, Arbitrage, and Investment
+**** Artificial Intelligence and Portfolio Management
+     Portfolio Management
+     Algorithmic Trading
+     Deep Learning, Reinforcement Learning, and Evolution Strategies
+     
+** Resources
+**** Course Content
+Arul on Big Data for Banking
+Princeton – Blockchain and Cryptocurrency Technology
+Quantopia
+**** My work on Arbitrage and Visualization
+Arbitrage Paper
+Arbitrage Video
+CryptViz Proposal
+**** My work on Automated Trading
+Slide Deck
+Summary
+756 Proposal
+Original Paper
+**** My work on Signal Processing and Time Series
+Field Recordings
+EEG
+** Credentials
+*** My Portfolio
+*** My Resume
+*** GPA
+*** Reference
+Steven
+Diana
+Jiannan
+Greg Baker
+Maxwell Librecht
+
+
