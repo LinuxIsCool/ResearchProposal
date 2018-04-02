@@ -47,20 +47,36 @@ Brain Drain!
 The Big Data Empire
 ** Proposal
 Two RA Terms
+I propose two semesters of Research Assistant positions, Summer 2018 and Fall 2018. The goals of the respective semesters are the following:
 *** Summer 2018
-Reconaissance at RBC
-Quantopia Research
-Monthly Reports
+**** Reconaissance at RBC
+A key concept that Dr. Hefeeda has highlighted is that any addition to the Big Data Curriculum should be aligned with industrial demands. Banking and Finance
+is a huge industrial sector with a large demand for Data Scientists and Big Data solutions. Big Data has a huge intersection with Financial Technology, or
+FinTech. However, much of the Big Data concepts which are fundamental to FinTech are not currently within the scope of the Big Data program. Some examples that
+I am aware of include: Time Series Analysis, Signal Processing, Data Streaming, Asset and Risk Management, Cryptocurrency Systems, Blockchain and Smart Contracts,
+AI for Asset and Risk Management.
+
+The above concepts stem more from my own passions than from industrial alignment. Thus my time at RBC will serve as a needs assessment for FinTech in industry,
+from a Big Data perspective. During my time at RBC I will generate a needs assessment report for industrial FinTech from a Big Data perspective. I will do this
+via personal observation, as well as explicit interviews with RBC Technology and Operations employees. 
+
+I will produce a report, as well as a presentation for the Big Data department when I return to Burnaby in September 2018.
+
+**** Quantopia Research
+During my four month COOP with RBC, in addition to investigating industrial needs for Big Data in FinTech, I propose an additional research component to my
+RA position. I would like to progress through the lectures [[https://www.quantopian.com/lectures][here]]. These lectures illustrate quantitative finance through the lens of Data Science. From this
+resource I will curate the relevant and non-redundant lessons into a unit to be incorporated into the Big Data Curriculum. 
+
+For this part of the RA position, I will compile a repository of Jupyter Notebook lectures.
 *** Fall 2018
 Algorithms
 Course Development / Course Offering / Seminar Style?
 Work with a professor - Steven?
 ** Course Content
-**** Big Data in Banking, Assets, and the Economy
-     Introduction to Financial Technology
+**** Big Data in Banking, Assets, and Economics
      Assets and the Economy as Big Data
      Risk Management
-     Arbitrage
+     Arbitrage 
 **** Time Series, Signal Processing, Streaming and Dynamic Data
 ***** Time Series
      This area is, I believe, the most significant gap in the content covered by 
